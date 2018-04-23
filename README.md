@@ -1,0 +1,3 @@
+# Django Train Folder
+
+### Was created for backup previous versions if happens something ...
